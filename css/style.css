@@ -1884,7 +1884,8 @@ a.readmore {
     padding: 6px;
     margin-right: 4px;
     margin-bottom: 4px;
-    text-transform: capitalize -webkit-border-radius: 0px;
+    text-transform: capitalize;
+    -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
 }
