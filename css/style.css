@@ -2736,6 +2736,12 @@ blockquote {
     opacity: 0.5;
 }
 
+.icon {
+    width: 30px;
+    height: 30px;
+    filter: grayscale(100%);
+}
+
 
 /* Updated CSS */
 
